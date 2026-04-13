@@ -1,0 +1,15 @@
+build/
+*.o
+*.a
+*.so
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.ninja
+.ninja_deps
+.ninja_log
+compile_commands.json
+*.ll.tmp
+*.pyc
+__pycache__/
