@@ -1,5 +1,5 @@
 # RYUKI —— 基于 MLIR 的算子融合编译器实践
-
+龙骑：3/20项目，跳过了Reddit保密项目AGITO，独立开发的MLIR算子融合INFRA项目
 > 一个从零搭建的 MLIR Out-of-Tree 项目，实现 Linalg 算子融合与完整 Lowering 流水线。
 
 ---
